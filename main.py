@@ -19,3 +19,5 @@ print("Atnaujinta")
 print("M")
 
 naujas pakeitimas
+
+pakeitimas
