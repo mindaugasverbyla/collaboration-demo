@@ -11,5 +11,8 @@ def multiply(a, b): <br>
 def subtract(a, b): <br>
     return a - b
 
-?Pakeitimas
+# Pakeitimas
 # Pokytis
+
+# Pridedu eilute:
+print("Atnaujinta")
