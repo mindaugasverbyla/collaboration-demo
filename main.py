@@ -16,3 +16,4 @@ def subtract(a, b): <br>
 
 # Pridedu eilute:
 print("Atnaujinta")
+print("M")
